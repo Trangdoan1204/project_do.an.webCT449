@@ -1,0 +1,19 @@
+{
+  "name": "project_food",
+  "version": "1.0.0",
+  "description": "Bài PROJECT trang web bán thực phẩm\r MSSV: B2014890\r Tên:Đoàn Thị Thuỳ Trang",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trangdoan1204/project_do.an.webCT449.git"
+  },
+  "author": "Trang Doan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trangdoan1204/project_do.an.webCT449/issues"
+  },
+  "homepage": "https://github.com/Trangdoan1204/project_do.an.webCT449#readme"
+}
